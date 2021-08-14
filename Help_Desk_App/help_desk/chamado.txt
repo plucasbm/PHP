@@ -1,0 +1,4 @@
+3#Chamado Maria#Rede#asdasdada
+4#Chamado Jose#Hardware#sdsafasf
+3#Problema de Impressão#Impressora#não imprime
+4#Tela azul#Software#deu tela azul
